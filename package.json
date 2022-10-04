@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "proyecto con gulp, SASS Y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeiFB/FestivalMusica_inicio.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Jeifher Fuentes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeiFB/FestivalMusica_inicio/issues"
+  },
+  "homepage": "https://github.com/JeiFB/FestivalMusica_inicio#readme"
+}
